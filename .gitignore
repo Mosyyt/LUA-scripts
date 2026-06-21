@@ -1,0 +1,15 @@
+# Binaries & Executables
+*.exe
+*.app/
+*.dmg
+
+# macOS
+*.DS_Store
+__MACOSX/
+
+# Windows
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
